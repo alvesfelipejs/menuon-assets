@@ -24,13 +24,13 @@
     "nomePrincipal": "Frango com Catupiry",
     "nomes": [
       "Frango com Catupiry",
-      "Frango com requeijÃÂÃÂÃÂÃÂ£o"
+      "Frango com requeijÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o"
     ],
     "tags": [
       "molho de tomate",
       "mussarela",
       "frango",
-      "requeijÃÂÃÂÃÂÃÂ£o cremoso"
+      "requeijÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o cremoso"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467173137_pizza.webp",
     "path": "sabores/1795467173137_pizza.webp",
@@ -46,9 +46,9 @@
     ],
     "tags": [
       "molho de tomate",
-      "mussarela e camarÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+      "mussarela e camarÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
       "mussarela",
-      "camarÃÂÃÂ£o"
+      "camarÃÂÃÂÃÂÃÂ£o"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467079602_pizza.webp",
     "path": "sabores/1795467079602_pizza.webp",
@@ -63,6 +63,7 @@
     "nomePrincipal": "Calabres",
     "nomes": [
       "Calabres",
+      "Calabresa",
       "Calabresa acebolada"
     ],
     "tags": [
@@ -74,6 +75,8 @@
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795466821979_pizza.webp",
     "path": "sabores/1795466821979_pizza.webp",
     "autor": "felipe",
-    "dataCriacao": "2026-11-23T20:47:04.908Z"
+    "dataCriacao": "2026-11-23T20:47:04.908Z",
+    "dataAtualizacao": "2026-11-23T23:17:23.371Z",
+    "atualizadoPor": "felipe"
   }
 ]
