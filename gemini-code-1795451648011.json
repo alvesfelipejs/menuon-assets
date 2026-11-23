@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pz_4queijos",
+    "arquivo": "sabores/4queijos.png",
+    "categoria": "pizza",
+    "nomes": ["Quatro Queijos", "4 Queijos"],
+    "tags": ["mussarela", "provolone", "parmesao", "gorgonzola", "catupiry"],
+    "autor": "MenuOn Oficial"
+  },
+  {
+    "id": "pz_calabresa",
+    "arquivo": "sabores/calabresa.png",
+    "categoria": "pizza",
+    "nomes": ["Calabresa", "Calabresa Acebolada", "Toscana"],
+    "tags": ["calabresa", "cebola", "azeitona"],
+    "autor": "MenuOn Oficial"
+  },
+  {
+    "id": "pz_portuguesa",
+    "arquivo": "sabores/portuguesa.png",
+    "categoria": "pizza",
+    "nomes": ["Portuguesa", "Paulista", "Moda da Casa"],
+    "tags": ["presunto", "ovo", "ervilha", "cebola", "azeitona", "palmito"],
+    "autor": "MenuOn Oficial"
+  }
+]
