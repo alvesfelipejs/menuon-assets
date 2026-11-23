@@ -16,11 +16,11 @@
     "autor": "MenuOn Oficial"
   },
   {
-    "id": "pz_portuguesa",
-    "arquivo": "sabores/portuguesa.png",
-    "categoria": "pizza",
-    "nomes": ["Portuguesa", "Paulista", "Moda da Casa"],
-    "tags": ["presunto", "ovo", "ervilha", "cebola", "azeitona", "palmito"],
+    "id": "fundo_tabua_padrao",
+    "arquivo": "fundos/fundopizza.jpg",
+    "categoria": "fundo",
+    "nomes": ["Fundo Tábua de Madeira Padrão", "Tábua Rústica com Rolo"],
+    "tags": ["fundo", "palco", "tabua", "madeira", "escura", "padrao"],
     "autor": "MenuOn Oficial"
   }
 ]
