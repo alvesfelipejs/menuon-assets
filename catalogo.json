@@ -1,5 +1,21 @@
 [
   {
+    "id": "item_1795467082056_03mg",
+    "categoria": "pizza",
+    "nomePrincipal": "Camarao",
+    "nomes": [
+      "Camarao"
+    ],
+    "tags": [
+      "molho de tomate",
+      "mussarela e camarão"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467079602_pizza.webp",
+    "path": "sabores/1795467079602_pizza.webp",
+    "autor": "felipe",
+    "dataCriacao": "2026-11-23T20:51:22.056Z"
+  },
+  {
     "id": "item_1795466824908_fmwg",
     "categoria": "pizza",
     "nomePrincipal": "Calabres",
