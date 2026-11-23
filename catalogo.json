@@ -19,23 +19,6 @@
     "dataCriacao": "2026-11-23T20:00:21.301Z"
   },
   {
-    "id": "pz_4queijos",
-    "arquivo": "sabores/4queijos.png",
-    "categoria": "pizza",
-    "nomes": [
-      "Quatro Queijos",
-      "4 Queijos"
-    ],
-    "tags": [
-      "mussarela",
-      "provolone",
-      "parmesao",
-      "gorgonzola",
-      "catupiry"
-    ],
-    "autor": "MenuOn Oficial"
-  },
-  {
     "id": "pz_calabresa",
     "arquivo": "sabores/calabresa.png",
     "categoria": "pizza",
@@ -56,8 +39,8 @@
     "arquivo": "fundos/fundopizza.jpg",
     "categoria": "fundo",
     "nomes": [
-      "Fundo TÃ¡bua de Madeira PadrÃ£o",
-      "TÃ¡bua RÃºstica com Rolo"
+      "Fundo TÃÂ¡bua de Madeira PadrÃÂ£o",
+      "TÃÂ¡bua RÃÂºstica com Rolo"
     ],
     "tags": [
       "fundo",
