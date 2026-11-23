@@ -24,13 +24,13 @@
     "nomePrincipal": "Frango com Catupiry",
     "nomes": [
       "Frango com Catupiry",
-      "Frango com requeijÃÂ£o"
+      "Frango com requeijÃÂÃÂ£o"
     ],
     "tags": [
       "molho de tomate",
       "mussarela",
       "frango",
-      "requeijÃÂ£o cremoso"
+      "requeijÃÂÃÂ£o cremoso"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467173137_pizza.webp",
     "path": "sabores/1795467173137_pizza.webp",
@@ -46,9 +46,9 @@
     ],
     "tags": [
       "molho de tomate",
-      "mussarela e camarÃÂÃÂ£o",
+      "mussarela e camarÃÂÃÂÃÂÃÂ£o",
       "mussarela",
-      "camarÃ£o"
+      "camarÃÂ£o"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467079602_pizza.webp",
     "path": "sabores/1795467079602_pizza.webp",
@@ -75,25 +75,6 @@
     "path": "sabores/1795466821979_pizza.webp",
     "autor": "felipe",
     "dataCriacao": "2026-11-23T20:47:04.908Z"
-  },
-  {
-    "id": "item_1795466757458_a33f",
-    "categoria": "pizza",
-    "nomePrincipal": "4queijos",
-    "nomes": [
-      "4queijos"
-    ],
-    "tags": [
-      "molho de tomate",
-      "mussarela",
-      "parmesao",
-      "provolone",
-      "gorgonzola"
-    ],
-    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795466754799_pizza.webp",
-    "path": "sabores/1795466754799_pizza.webp",
-    "autor": "felipe",
-    "dataCriacao": "2026-11-23T20:45:57.458Z"
   },
   {
     "id": "item_1795464021301_0xl4",
