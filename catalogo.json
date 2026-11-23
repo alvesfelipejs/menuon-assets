@@ -5,13 +5,13 @@
     "nomePrincipal": "Frango com Catupiry",
     "nomes": [
       "Frango com Catupiry",
-      "Frango com requeijão"
+      "Frango com requeijÃ£o"
     ],
     "tags": [
       "molho de tomate",
       "mussarela",
       "frango",
-      "requeijão cremoso"
+      "requeijÃ£o cremoso"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467173137_pizza.webp",
     "path": "sabores/1795467173137_pizza.webp",
@@ -27,12 +27,16 @@
     ],
     "tags": [
       "molho de tomate",
-      "mussarela e camarÃ£o"
+      "mussarela e camarÃÂ£o",
+      "mussarela",
+      "camarão"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467079602_pizza.webp",
     "path": "sabores/1795467079602_pizza.webp",
     "autor": "felipe",
-    "dataCriacao": "2026-11-23T20:51:22.056Z"
+    "dataCriacao": "2026-11-23T20:51:22.056Z",
+    "dataAtualizacao": "2026-11-23T20:53:19.277Z",
+    "atualizadoPor": "felipe"
   },
   {
     "id": "item_1795466824908_fmwg",
