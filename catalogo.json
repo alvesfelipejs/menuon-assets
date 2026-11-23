@@ -1,5 +1,24 @@
 [
   {
+    "id": "item_1795466757458_a33f",
+    "categoria": "pizza",
+    "nomePrincipal": "4queijos",
+    "nomes": [
+      "4queijos"
+    ],
+    "tags": [
+      "molho de tomate",
+      "mussarela",
+      "parmesao",
+      "provolone",
+      "gorgonzola"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795466754799_pizza.webp",
+    "path": "sabores/1795466754799_pizza.webp",
+    "autor": "felipe",
+    "dataCriacao": "2026-11-23T20:45:57.458Z"
+  },
+  {
     "id": "item_1795464021301_0xl4",
     "categoria": "pizza",
     "nomePrincipal": "Calabresa",
@@ -39,8 +58,8 @@
     "arquivo": "fundos/fundopizza.jpg",
     "categoria": "fundo",
     "nomes": [
-      "Fundo TÃÂ¡bua de Madeira PadrÃÂ£o",
-      "TÃÂ¡bua RÃÂºstica com Rolo"
+      "Fundo TÃÂÃÂ¡bua de Madeira PadrÃÂÃÂ£o",
+      "TÃÂÃÂ¡bua RÃÂÃÂºstica com Rolo"
     ],
     "tags": [
       "fundo",
