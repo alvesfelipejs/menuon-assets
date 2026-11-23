@@ -1,5 +1,24 @@
 [
   {
+    "id": "item_1795466824908_fmwg",
+    "categoria": "pizza",
+    "nomePrincipal": "Calabres",
+    "nomes": [
+      "Calabres",
+      "Calabresa acebolada"
+    ],
+    "tags": [
+      "molho de tomate",
+      "mussraela",
+      "calabresa",
+      "cebola"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795466821979_pizza.webp",
+    "path": "sabores/1795466821979_pizza.webp",
+    "autor": "felipe",
+    "dataCriacao": "2026-11-23T20:47:04.908Z"
+  },
+  {
     "id": "item_1795466757458_a33f",
     "categoria": "pizza",
     "nomePrincipal": "4queijos",
