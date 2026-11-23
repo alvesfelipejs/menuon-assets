@@ -1,5 +1,24 @@
 [
   {
+    "id": "item_1795467176016_zojp",
+    "categoria": "pizza",
+    "nomePrincipal": "Frango com Catupiry",
+    "nomes": [
+      "Frango com Catupiry",
+      "Frango com requeijão"
+    ],
+    "tags": [
+      "molho de tomate",
+      "mussarela",
+      "frango",
+      "requeijão cremoso"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467173137_pizza.webp",
+    "path": "sabores/1795467173137_pizza.webp",
+    "autor": "felipe",
+    "dataCriacao": "2026-11-23T20:52:56.016Z"
+  },
+  {
     "id": "item_1795467082056_03mg",
     "categoria": "pizza",
     "nomePrincipal": "Camarao",
@@ -8,7 +27,7 @@
     ],
     "tags": [
       "molho de tomate",
-      "mussarela e camarão"
+      "mussarela e camarÃ£o"
     ],
     "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795467079602_pizza.webp",
     "path": "sabores/1795467079602_pizza.webp",
