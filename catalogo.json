@@ -1,26 +1,72 @@
 [
   {
+    "id": "item_1795464021301_0xl4",
+    "categoria": "pizza",
+    "nomePrincipal": "Calabresa",
+    "nomes": [
+      "Calabresa",
+      "Calabresa acebolada"
+    ],
+    "tags": [
+      "mussarela",
+      "molho de tomate",
+      "calabresa",
+      "cebola"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/alvesfelipejs/menuon-assets@main/sabores/1795464018095_pizza.webp",
+    "path": "sabores/1795464018095_pizza.webp",
+    "autor": "felipe",
+    "dataCriacao": "2026-11-23T20:00:21.301Z"
+  },
+  {
     "id": "pz_4queijos",
     "arquivo": "sabores/4queijos.png",
     "categoria": "pizza",
-    "nomes": ["Quatro Queijos", "4 Queijos"],
-    "tags": ["mussarela", "provolone", "parmesao", "gorgonzola", "catupiry"],
+    "nomes": [
+      "Quatro Queijos",
+      "4 Queijos"
+    ],
+    "tags": [
+      "mussarela",
+      "provolone",
+      "parmesao",
+      "gorgonzola",
+      "catupiry"
+    ],
     "autor": "MenuOn Oficial"
   },
   {
     "id": "pz_calabresa",
     "arquivo": "sabores/calabresa.png",
     "categoria": "pizza",
-    "nomes": ["Calabresa", "Calabresa Acebolada", "Toscana"],
-    "tags": ["calabresa", "cebola", "azeitona"],
+    "nomes": [
+      "Calabresa",
+      "Calabresa Acebolada",
+      "Toscana"
+    ],
+    "tags": [
+      "calabresa",
+      "cebola",
+      "azeitona"
+    ],
     "autor": "MenuOn Oficial"
   },
   {
     "id": "fundo_tabua_padrao",
     "arquivo": "fundos/fundopizza.jpg",
     "categoria": "fundo",
-    "nomes": ["Fundo Tábua de Madeira Padrão", "Tábua Rústica com Rolo"],
-    "tags": ["fundo", "palco", "tabua", "madeira", "escura", "padrao"],
+    "nomes": [
+      "Fundo TÃ¡bua de Madeira PadrÃ£o",
+      "TÃ¡bua RÃºstica com Rolo"
+    ],
+    "tags": [
+      "fundo",
+      "palco",
+      "tabua",
+      "madeira",
+      "escura",
+      "padrao"
+    ],
     "autor": "MenuOn Oficial"
   }
 ]
