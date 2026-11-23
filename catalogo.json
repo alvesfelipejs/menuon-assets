@@ -38,28 +38,12 @@
     "dataCriacao": "2026-11-23T20:00:21.301Z"
   },
   {
-    "id": "pz_calabresa",
-    "arquivo": "sabores/calabresa.png",
-    "categoria": "pizza",
-    "nomes": [
-      "Calabresa",
-      "Calabresa Acebolada",
-      "Toscana"
-    ],
-    "tags": [
-      "calabresa",
-      "cebola",
-      "azeitona"
-    ],
-    "autor": "MenuOn Oficial"
-  },
-  {
     "id": "fundo_tabua_padrao",
     "arquivo": "fundos/fundopizza.jpg",
     "categoria": "fundo",
     "nomes": [
-      "Fundo TÃÂÃÂ¡bua de Madeira PadrÃÂÃÂ£o",
-      "TÃÂÃÂ¡bua RÃÂÃÂºstica com Rolo"
+      "Fundo TÃÂÃÂÃÂÃÂ¡bua de Madeira PadrÃÂÃÂÃÂÃÂ£o",
+      "TÃÂÃÂÃÂÃÂ¡bua RÃÂÃÂÃÂÃÂºstica com Rolo"
     ],
     "tags": [
       "fundo",
